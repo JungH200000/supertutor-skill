@@ -1,0 +1,20 @@
+{
+  "name": "jungh200000-study",
+  "interface": {
+    "displayName": "supertutor"
+  },
+  "plugins": [
+    {
+      "name": "supertutor",
+      "source": {
+        "source": "local",
+        "path": "./plugins/supertutor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    }
+  ]
+}
