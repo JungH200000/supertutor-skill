@@ -1,0 +1,12 @@
+{
+  "name": "supertutor",
+  "version": "0.1.0",
+  "description": "Supertutor 과외 스킬을 Codex에서 사용",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Supertutor",
+    "shortDescription": "예제를 풀고 질문을 주고받는 AI 과외",
+    "developerName": "cskwork",
+    "category": "Education"
+  }
+}
